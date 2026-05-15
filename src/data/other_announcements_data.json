@@ -1,0 +1,8 @@
+[
+  { "text": "Other Announcements", "heading": "heading" },
+  { "text": "Call for Proposals", "count": 3 },
+  { "text": "Expression of Interest", "count": 5 },
+  { "text": "Invitation for Bids", "count": 4 },
+  { "text": "Training / Workshops", "count": 4 },
+  { "text": "All job categories...", "style": "blue" }
+]

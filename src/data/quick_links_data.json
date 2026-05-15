@@ -1,0 +1,10 @@
+
+ [
+  { "text": "Contact us", "style": "blue" },
+  { "text": "Post Your CV" },
+  { "text": "Add New Job" },
+  { "text": "Add New Classified" },
+  { "text": "List of Companies", "badge": "New" },
+  { "text": "Live Music & Dj Gig Guide", "iconQl": true },
+  { "text": "See the Bong Thom dot Com Jobs on Facebook", "style": "blue" ,"textAlgin": "center", "facebookImg": true }
+ ]

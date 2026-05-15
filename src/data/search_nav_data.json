@@ -1,0 +1,13 @@
+{
+  "authLinks": [
+    { "text": "Member Login", "icon": "/images/secure.gif" },
+    { "text": "Sign Up", "icon": "/images/secure.gif" },
+    { "text": "Employer Login", "icon": "/images/secure.gif" }
+  ],
+  "navItems": [
+    { "text": "Job List", "icon": "/images/jobs_1_qv.gif" },
+    { "text": "Job Search", "icon": "/images/jobs_1_search.gif", "padClass": "text-col-pad-sm" },
+    { "text": "Classified List", "icon": "/images/class_1_qv.gif", "padClass": "text-col-pad-lg" },
+    { "text": "Classified Search", "icon": "/images/class_1_search.gif", "padClass": "text-col-pad-lg" }
+  ]
+}
